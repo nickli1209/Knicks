@@ -23,5 +23,8 @@ phases:
       - echo '[{"name":"knicks-react-app","imageUri":"962804699607.dkr.ecr.us-west-2.amazonaws.com/knicks-ecr-repo:latest"}]' > imagedefinitions.json
 artifacts:
   files: imagedefinitions.json
+  
+  
+
 
 
